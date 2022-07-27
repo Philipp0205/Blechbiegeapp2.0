@@ -1,0 +1,1 @@
+pandoc --wrap=preseve -f markdown -t odt -o output.odt input.md

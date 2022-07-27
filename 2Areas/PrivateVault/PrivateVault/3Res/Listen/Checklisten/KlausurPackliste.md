@@ -1,0 +1,9 @@
+- [x] Studiausweis
+- [x] Maske
+- [x] Zwei Stifte
+- [x] SSB Ticket 
+- [x] Materialien
+- [x] Block 
+- [x] (Taschenrechner + Geodreieck)
+- [x] Laptop
+- [ ] Trinken

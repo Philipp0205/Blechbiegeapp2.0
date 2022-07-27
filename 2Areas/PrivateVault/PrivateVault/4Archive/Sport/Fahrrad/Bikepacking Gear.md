@@ -1,0 +1,12 @@
+- Backloader
+	- [Topeak Backloader](https://www.idealo.de/preisvergleich/OffersOfProduct/6056181_-backloader-10l-black-topeak.html)
+- Midloader
+	- [Topeak Midlaoder](https://www.fahrrad.de/topeak-midloader-rahmentasche-6l-M711069.html?vgid=G1198903&cgid=36919)
+- Frontloader 
+	 - [Topeak Frontloader](https://www.amazon.de/dp/B081RXH5TQ?m=A3JWKAKR8XB7XF&tag=idealode-am-pk-21&ascsubtag=MSgWo9OBeIxFH6UkL5kO9g&th=1&psc=1)
+- Zelt
+	- https://www.decathlon.de/p/trekking-zelt-trek-900-1-person-kuppelzelt-grau-orange/_/R-p-305777?mc=8545744#zoom=opened
+- Schlafsack 
+	- https://www.amazon.de/gp/product/B01CCKKNQQ/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
+- Route 
+	- https://www.komoot.de/tour/237661696

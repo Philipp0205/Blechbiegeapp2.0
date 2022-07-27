@@ -1,0 +1,11 @@
+- Optimal Sleep Duration and Stroke
+	- 7-8h Sleep are optimal for reduces stroke riks
+	- ---
+	- Lack of sleep, or even too much of it, is associated with increased stroke risk.32
+		- 32. Patyar S, Patyar RR. Correlation between sleep duration and risk of stroke. J Stroke Cerebrovasc Dis. 2015;24(5):905–11.
+	- A recent study of 150,000 Americans was able to examine the issue more thoroughly. Higher stroke rates were found among individuals sleeping six hours or less, or nine hours or more. Those at lowest risk got around seven or eight hours of sleep a night.[34](file:///text/part0045.html#chapter3-34) Large studies in Europe,[35](file:///text/part0045.html#chapter3-35)China,[36](file:///text/part0045.html#chapter3-36) and elsewhere[37](file:///text/part0045.html#chapter3-37) have confirmed that seven or eight hours appears to be associated with the lowest risk. 
+		- 34. Fang J, Wheaton AG, Ayala C. Sleep duration and history of stroke among adults from the USA. J Sleep Res. 2014;23(5):531–7.
+		- 35. von Ruesten A, Weikert C, Fietze I, et al. Association of sleep duration with chronic diseases in the European Prospective Investigation into Cancer and Nutrition (EPIC)-Potsdam study. PLoS ONE. 2012;7(1):e30972.
+		- 36. Pan A, De Silva DA, Yuan JM, et al. Sleep duration and risk of stroke mortality among Chinese adults: Singapore Chinese health study. Stroke. 2014;45(6):1620–5.
+		- 37. Leng Y, Cappuccio FP, Wainwright NW, et al. Sleep duration and risk of fatal and nonfatal stroke: a prospective study and meta-analysis. Neurology. 2015;84(11):1072–9.
+-

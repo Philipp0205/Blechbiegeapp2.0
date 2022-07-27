@@ -1,0 +1,7 @@
+-   Karottgne schälen + würfel
+-   Paprika würfel
+-   Zucchini würfel
+-   In Pfanne anbraten mit Olivenöl
+-   Würzen mit italienischen kräutern
+-   Nach der Hälfte zwiebeln rein
+-   Dann in aluschalen

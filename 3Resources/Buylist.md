@@ -1,0 +1,3 @@
+- Weinglas JOSEPHINE No 2 - Universal
+	- https://josephinen.com/de/products/josephine-2
+- 

@@ -1,0 +1,17 @@
+ Antioxidants and Stroke
+	- When oxgen gets in contact with a high-enery electron it turns to a superoxide -> A Free readical
+	- Damages DNA
+	- Antixoidant rich foods are good against superoxides
+	- ---
+	- When oxygen gets its hands on a high-energy electron, it basically turns into the Hulk, changing from lowly oxygen into what’s called superoxide, a type of free radical. A free radical is what it sounds like—a molecule that can be unstable, out of control, and violently reactive. The superoxide is just pumped up with energy and can start smashing around the cell, knocking stuff over and tripping over your DNA.
+	- When superoxide comes in contact with DNA, it can damage your genes, which, if not repaired, can cause mutations in your chromosomes that may lead to cancer.[41](file:///text/part0045.html#chapter3-41) Thankfully, the body calls in its defense squad, known as antioxidants. 
+		- 41. Emerit I. Reactive oxygen species, chromosome mutation, and cancer: possible role of clastogenic factors in carcinogenesis. Free Radic Biol Med. 1994;16(1):99–109.
+	- As the researchers put it, “[A]ntioxidant rich foods originate from the plant kingdom while meat, fish and other foods from the animal kingdom are low in antioxidants.”[48](file:///text/part0045.html#chapter3-48) Even the least healthy plant food I can think of, good old American iceberg lettuce (which is 96 percent water![49](file:///text/part0045.html#chapter3-49)),
+		- 48. Carlsen MH, Halvorsen BL, Holte K, et al. The total antioxidant content of more than 3100 foods, beverages, spices, herbs and supplements used worldwide. Nutr J. 2010 Jan 22;9:3.
+		- 49. Bastin S, Henken K. Water Content of Fruits and Vegetables. ENRI-129. University of Kentucky College of Agriculture Cooperative Extension Service. http://www2.ca.uky.edu/enri/pubs/enri129.pdf. December 1997. Accessed March 3, 2015.
+	- Cut open a mango and what happens? Nothing happens, because there are lots of antioxidants in there. How do you keep fruit salad from turning brown? By adding lemon juice, which contains the antioxidant vitamin C. Antioxidants can keep your food from oxidizing, and they may do the same inside your body.
+	- One of the diseases antioxidant-rich foods may help prevent is stroke. Swedish researchers followed more than thirty thousand older women over a period of a dozen years and found that those who ate the most antioxidant-rich foods had the lowest stroke risk.[42](file:///text/part0045.html#chapter3-42) Similar findings were reported in a younger cohort of men and women in Italy.[43](file:///text/part0045.html#chapter3-43) As with lung disease,[44](file:///text/part0045.html#chapter3-44) antioxidant supplements don’t appear to help.[45](file:///text/part0045.html#chapter3-45) Mother Nature’s powers cannot be stuffed into a pill.
+		- 42. Rautiainen S, Larsson S, Virtamo J, et al. Total antioxidant capacity of diet and risk of stroke: a population-based prospective cohort of women. Stroke. 2012;43(2):335–40.
+		- 43. Del Rio D, Agnoli C, Pellegrini N, et al. Total antioxidant capacity of the diet is associated with lower risk of ischemic stroke in a large Italian cohort. J Nutr. 2011;141(1):118–23.
+		- 44. Satia JA, Littman A, Slatore CG, Galanko JA, White E. Long-term use of beta-carotene, retinol, lycopene, and lutein supplements and lung cancer risk: results from the VITamins And Lifestyle (VITAL) study. Am J Epidemiol. 2009;169(7):815–28.
+		- 45. Hankey GJ. Vitamin supplementation and stroke prevention. Stroke. 2012;43(10):2814–8.

@@ -1,0 +1,42 @@
+#lecture-note | #programming #syntax #semantics
+
+---
+- **Intro**
+	- "references" describes different things in Java and c++ . 
+	- *Syntax*
+		- The syntax of programming languages describes its from and structure
+	- *Semantics*
+		- The Semantics a a language describes the meaning of the program
+	- Together semantics  and syntax define a language
+- **How to describe syntax and semantics**
+	- Some Formal Language Theory
+		- ...
+	- Grammars
+		- Natural languages are described by grammars
+		- Grammar is a symbol replacement process
+		- Grammars are useful for both directions of programming language processing
+			- Generating a program
+			- Recognizing a program
+	- Generators and Recognizers
+		- Generator
+			- A Generator is a (often human) entity that generates programs according to the syntax of a programming language
+		- Recognizer
+			- Reads characters from an input and decides whether the given character sequence is a sentence of the language
+				- Syntax analysis
+				- Output generation
+	- The lover level: Token Recognition
+		- Program analyssis first transforms the given character input into a squence of lexems
+		- Furthermore the lexems are assigned types
+	- Regular Expressions
+		- A typical grammar on the lower leven consists of regular expressoins
+			- Every character is a regular expression matching itself 
+			- A set of chars is matched by `[abc], [^0-9]`
+			- etc.
+		- In reality, regex can be much more complex
+- (Extendeded) Backus-Naur-Forms
+	- BNFG and EBNF were debeloped to describe context free grammars
+- **Attributes**
+	- Definition of Attributes
+		- Attibuted Grammars extend EBNF by adding attributes to terminals and nonterminals
+	- Defining attributed Grammars
+		- To define an attributed garammar, a context free grammar G is taken and extended by attributesz

@@ -1,0 +1,10 @@
+- Container 
+	- Like a div in html
+	- Each container as a "child" element allows to nest elements
+- Scaffhold
+	- todo
+- Collumn
+	- "A widget that display a childen in a vertical array."
+	- `minAxisAligment` and `crossAxisAlignment`
+		- Properties to ocntrol how content is aligend alon the "main axxis" of the cloumn (vertical line)
+	- 

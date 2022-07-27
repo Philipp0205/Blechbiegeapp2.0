@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "4bb60d71ed039156",
+    "type": "split",
+    "children": [
+      {
+        "id": "fef91b29aceee073",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Blechbiegeapp/02BlechbiegenNotes/Biegeverkürzung/BiegeverkürzungPräsentation.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4815ddede707e9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "89006ae3b8368455",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0d5520a7b29335e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ca73d6fdf0745515",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a50d3f1a228bfb0b",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 316
+  },
+  "right": {
+    "id": "6633b6733eabd980",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d5de7cf7730ccee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c770ffcad998301a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Blechbiegeapp/02BlechbiegenNotes/Biegeverkürzung/BiegeverkürzungPräsentation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fef91b29aceee073",
+  "lastOpenFiles": [
+    "Blechbiegeapp/02BlechbiegenNotes/Biegeverkürzung/BiegeverkürzungPräsentation.md",
+    "Blechbiegeapp/02BlechbiegenNotes/BiegeSequenzPräsentation/BiegesequenzPräsentation.md"
+  ]
+}

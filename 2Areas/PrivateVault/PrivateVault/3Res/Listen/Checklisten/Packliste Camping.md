@@ -1,0 +1,39 @@
+- Plan
+    - 1,5h Fahrt
+    - +1,5 Aufbauen einkaufen etc.
+    - 10:35 - 3h = 7:30!! 
+- Camping (DTM)
+    - **Camping**
+        - Geschirr
+        - Campingstühle
+        - Schlafsack
+        - Lampe
+        - Isomatte
+        - Zelt 
+        - Karten
+        - Spiele
+        - An Frühstück denken
+        - Musik
+    - **Hygiene** 
+        - Sonnenchreme
+        - Deo
+        - Zahnbürste
+        - Shampoo
+        - Kamm
+    - **Am Körper**
+        - Sonnenbrille
+        - Mütze
+        - Pollendings
+        - Jacke
+        - Akkubank
+        - Ladekabel / Handy
+        - Akkubank 
+        - Kopfhörer
+        - Kleidung
+            - Sweat-Jacke
+            - T-Shirt
+            - Hose
+            - Unterhose
+        - Geldbeutel
+            - Geld
+        - Rucksack

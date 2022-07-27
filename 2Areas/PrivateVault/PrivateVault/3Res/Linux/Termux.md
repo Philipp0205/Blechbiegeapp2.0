@@ -1,0 +1,3 @@
+# Termux
+
+`termux-setup-storage`

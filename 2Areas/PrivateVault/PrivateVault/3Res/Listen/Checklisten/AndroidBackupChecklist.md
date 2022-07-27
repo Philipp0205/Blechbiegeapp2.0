@@ -1,0 +1,7 @@
+- [ ] Signal
+	- [ ] Code speichern
+- [ ] Threema
+- [ ] Whatsapp
+- [ ] sleep
+- [ ] osmand
+- [ ] openscale

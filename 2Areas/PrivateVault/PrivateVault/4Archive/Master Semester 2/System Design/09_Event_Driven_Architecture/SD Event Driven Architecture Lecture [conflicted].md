@@ -1,0 +1,1 @@
+[[SD - 09 - Event-Drive-Architecture-with-Apache-Kafka-Handout.pdf]]

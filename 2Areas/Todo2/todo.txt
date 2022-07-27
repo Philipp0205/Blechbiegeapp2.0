@@ -1,0 +1,19 @@
+x 2022-06-29 Segment to Line Refactoring +Blechbiegeapp @next due:2022-06-28 pri:A
+Fraunhofer Schulung abschließen @waiting due:2022-07-05
+x 2022-07-01 Werkzeuge als Oberwange/Unterwange/Biegewange +Blechbiegeapp @next due:2022-06-30 pri:A
+x 2022-06-29 Elektroschrott weg bringen +Haushalt due:2022-06-29
+x 2022-06-29 Wäsche wachen +Haushalt @next due:2022-06-28 pri:B
+x 2022-06-29 Termin mit BendEdit entwickler ausmachen +Blechbiegeapp due:2022-06-29
+x 2022-06-29 2022-06-28 Termin mit Philippa's vorbereiten +Blechbiegeapp due:2022-06-29
+2022-06-28 Pakete zurück schicken +Haushalt due:2022-07-08
+x 2022-07-01 Stadmobil anmelden +Haushalt @next due:2022-06-30
+x 2022-07-01 Stadmobil Führerschein validieren +Haushalt @next due:2022-07-01
+x 2022-07-01 2022-06-29 Peter PayPal +Blechbiegeapp @waiting due:2022-06-30
+x 2022-07-04 2022-07-04 In doodle Liste eintragen +Haushalt due:2022-07-04
+Kindergeld +Haushalt due:2022-07-05
+2022-07-02 Trriebe weg schneiden +Haushalt due:2022-07-05
+x 2022-07-05 2022-07-03 57448,6 +quicktask
+x 2022-07-05 2022-07-05 Also Talk PW Aldi4Bumbel# Nummer: 491774640313 Pin1 1510 pin2 1173 puk1 41106541 puk2 46074202 +quicktask
+x 2022-07-05 Story 1: Werkzeuge richtig in Simulation plazieren  +Blechbiegeapp
+x 2022-07-05 Story 2: Redo button implementieren +Blechbiegeapp
+2022-07-06 Smart aufladen +quicktask

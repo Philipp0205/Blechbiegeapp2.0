@@ -1,0 +1,3 @@
+- Spared a Aminacid called Leucine 
+- Branch chained aminoacid
+- Aminoacid that builds and preseves muscle

@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "c54a1cd17e35c87c",
+    "type": "split",
+    "children": [
+      {
+        "id": "62cfddf4608f366d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "4Archive/Semester2/!Semester2.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d1ec45349f3f6e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cbfd06e1089bd31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e17c759bde8d1ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "99bc24f941d8e9a9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "system design",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "59d01a431f5f7e41",
+    "type": "split",
+    "children": [
+      {
+        "id": "826cf5bd1d2d7366",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a09ecf26635a7a3d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4Archive/Semester2/!Semester2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "62cfddf4608f366d",
+  "lastOpenFiles": [
+    "4Archive/Semester2/!Semester2.md",
+    "4Archive/Semester2/MWT/!MWT.md",
+    "4Archive/Master Semester 2/System Design/SD Exams/WS1920/SD WS2021 My Solutions.md",
+    "4Archive/Master Semester 2/System Design/SD Exams/WS1920/SS20_Question2.svg",
+    "4Archive/Master Semester 2/System Design/SD Exams/!SD Exams.md",
+    "4Archive/Master Semester 2/System Design/PreExam1/SystemDesignEx1.md",
+    "4Archive/Master Semester 2/System Design/PreExam1/Pasted image 20211005105357.png",
+    "4Archive/Master Semester 2/System Design/02 SD Design Principles/!02 SD Design Principles.md",
+    "4Archive/Master Semester 2/System Design/01 SD Introduction/!01 SD Introduction.md",
+    "4Archive/Master Semester 2/System Design/!System Design.md"
+  ]
+}

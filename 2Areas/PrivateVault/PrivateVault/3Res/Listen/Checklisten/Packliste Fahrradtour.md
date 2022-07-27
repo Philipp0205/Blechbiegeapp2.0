@@ -1,0 +1,29 @@
+- Packliste Fahrradtour 
+  (wenn es etwas kälter ist ~10 Grad)
+    - Kleidung
+        - Kopf
+            - Stirnband / Sturmmütze
+            - Helm
+        - Oben
+            - Funktionsunterhemd
+            - Baumwollhemd
+            - Dünne Fließjacke
+            - Dünne Outdoor Jacke
+        - Unten
+            - Fahrradunterhose
+            - Funktionsunterhose
+            - Lange Sporthose
+        - Füße
+            - Dicke Socken
+            - Schuhe
+    - Rucksack
+        - Wasser
+        - Fahrradschloss
+        - Regenjacke
+        - Geldbeutel 
+        - Akkubank
+    - Anderes
+        - Handtücher
+            - wenn man Fahrrad mit Auto transportiert
+            - und zum drauf sitzen danach
+            

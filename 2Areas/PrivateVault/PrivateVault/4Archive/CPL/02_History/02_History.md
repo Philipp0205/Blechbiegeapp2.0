@@ -1,0 +1,111 @@
+#lecture-note  #lecture-notes 
+
+---
+# Historic Computers
+- **Historical Programming Languages**
+	- Hist. programming was not done with formal languages but other techniques
+		- Mechanical Switching Devices
+		- Plugboards 
+	- During the first 20 year, efficiency was preferred to elegance
+- **Problems of Plankalkül**
+	- The Plankalkül supported many modern programming language features
+		- Alternatives & Loops
+		- Arrays & Structures
+		- Functions
+	- Notation was not adapted and not constructed for compilers
+		- Notation was two-dimensional
+		- Numbers had arbitrary precision
+			- very slow
+- **Accounting Machines**
+	- Machines vwere built to perfom accountint procedures
+- **The First Von-Neumann-Machines**
+	- General idea: One Storage for program code and data
+	- Allowed for compiling source to binary code
+	- Memory as magnetic storage
+	- **Advanages**
+		- Program storage was very fast and quite stable
+	- **Disadvantages**
+		- Very expensive
+
+# Assembler
+- **Programming in Machine Code**
+	- Programs were codes as number of sequences
+	- Reasonably easy to learn, since  only few instructions existed
+- **Machine Code as Assembler Code**
+	- No need for assembler code during the 50s
+		- Machine code was easy
+	- First assembler programs were invented to optimize binary programs 
+	- Machines became too complex to memorize
+		- Too many machine operations
+		- -> Assembler was used
+- **The /360**
+	- "Bing-Bang" in computer science happened
+	- Could perform business and scientific calculations
+	- Machine code could be used on all machines
+		- Inventions of the "Software industry": it was possible to write software for others
+- **Assembler Languages**
+	- Offer the full power of the machine to the programmer
+		- All possible instructions of the CPU
+		- Access all registers
+	- **Disadvantages**
+		- Code is hard to read and even harder to debug
+		- Inserting code needs recomputation of addresses
+- **The First Higher Languages**
+	- Machine code was a bad choice
+		- Programs had to be completely rewritten when changing to another machine
+		- Nearly impossible to find errors
+		- Code corrections in the binary code were very hard
+	- Interests in the 50s
+		- Numerical Computations 
+		- Business Programming
+		- Symbolic Computations were of theoretical interest
+- **The Speedcode System**
+	- Idea: Write your program in bytecode with sufficient abstraction level
+		- Like java bytecode
+		- NKOTCB (New kid on the compiler block)
+	- The bytecode is the interpreted by a program written for specific machine
+		- Overhead too large
+		- Speed to slow
+		- Optimizing technology not available
+
+# Fortran 
+- **The Fortran Language**
+	- Idea: Write your program in a uniform notation that is translated to machine code by a compiler
+	- Invention of compiler needed a machine, where instructions were stored in main mem. 
+	- Writing a Compiler was acomplex task
+- **Design of Fortran**
+	- Available machine features influenced the language
+		- Array handling
+		- *No* I/O provided 
+		- String handling
+- **Features of Fortran I** 
+	- Effiiency
+	- Names could have up to sic chars
+	- Post-test counting loop (Do)
+	- Formatted I/O
+	- User defined subprograms
+	- Thee-way selection statement (arithmetic if)
+	- No data typing statement, data type was determined from var name
+		- eg. i = integer
+	- Support for complex numbers
+- **The Fortran I compler**
+	- needed 18 person years to be written
+	- Released 1957
+	- Practical programming length was limited to 400 loc
+	- All statements had to be in one program
+	- Was success, because programmers were rare
+	- "From now on, programs will be error free"
+		- lol
+- **The BASIC Sample**
+	- Old basic was referring to a line after a condition
+	- Modern Basic dialects don't need line numbers anymore
+- **Properties of PL/I**
+	- Invented a ot of modern programming language concepts
+		- Modularization
+		- Exceptions handling
+		- Recursion
+		- Pointer types
+		- Array sections
+	- **Summary**
+		- A lot of programming languages from history are still in use today
+			- "I don't know how the next generation scientific language will look, but its name will be Fortran"

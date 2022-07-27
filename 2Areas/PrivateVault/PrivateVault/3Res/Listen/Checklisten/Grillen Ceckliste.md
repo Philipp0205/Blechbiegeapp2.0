@@ -1,0 +1,34 @@
+- Grillen
+    - Organisatorisches
+        - Termin festlegen
+        - Gäste ienladen
+        - Location festlegen
+        - Für Schutz vor Regen sorgen
+        - Nachbarn informieren
+    - Kochen
+        - [Grillkartofflen](https://dynalist.io/d/tdHeiL7hAuzqMuTpMhKqvjqJ#z=tmx1eRS7hQ-nS-1ew1uXJ23b) 
+        - [Grillgemüse ](https://dynalist.io/d/tdHeiL7hAuzqMuTpMhKqvjqJ#z=BT-Hs-_WVuZmlv8_kfy6jP31) 
+        - Fleisch
+            - Steaks
+            - Würstchen (Robert)
+            - Nürnberger kaufen
+            - Grillkäse
+    - Beilagen 
+        - Nudelsalat (Melli)
+        - Kräuter Baguette 5
+        - Knabberzeug 
+    - Getränke und essen kalkulieren
+        - Wein
+        - Flaschen Bier
+        - Sprudel
+        - Bisschen Saft und Cola 
+    - Anderes
+        - Servietten
+        - Besteck 
+        - Teller
+    - Location
+        - Terasse vorbereiten
+        - Hobbyraum aufräumen
+
+
+ [ ] 

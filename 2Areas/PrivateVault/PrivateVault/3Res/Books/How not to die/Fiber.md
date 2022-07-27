@@ -1,0 +1,14 @@
+### TL;DR
+- Fiber has well-know effects on health: colon- and breast cancer, diabetes, heart disease, obesity, premuter death in general
+--- 
+- **In addition to its well-known effects on bowel health, high fiber intake appears to reduce the risk of cancers of the colon5 and breast,6 diabetes,7 heart disease,8 obesity,9 and premature death in general.1**0 A number of studies now show that high fiber intake may also help ward off stroke.11 Unfortunately, less than 3 percent of Americans meet the minimum daily recommendation for fiber.12
+    - 5. Aune D, Chan DS, Lau R, et al. Dietary fibre, whole grains, and risk of colorectal cancer: systematic review and dose-response meta-analysis of prospective studies. BMJ. 2011;343:d6617.
+    - 6. Aune D, Chan DS, Greenwood DC, et al. Dietary fiber and breast cancer risk: a systematic review and meta-analysis of prospective studies. Ann Oncol. 2012;23(6):1394–402.
+    - 7. Yao B, Fang H, Xu W, et al. Dietary fiber intake and risk of type 2 diabetes: a dose-response analysis of prospective studies. Eur J Epidemiol. 2014;29(2):79–88.
+    - 8. Threapleton DE, Greenwood DC, Evans CE, et al. Dietary fibre intake and risk of cardiovascular disease: systematic review and meta-analysis. BMJ. 2013;347:f6879.
+    - 9. Maskarinec G, Takata Y, Pagano I, et al. Trends and dietary determinants of overweight and obesity in a multiethnic population. Obesity (Silver Spring). 2006;14(4):717–26.
+    - 10. Kim Y, Je Y. Dietary fiber intake and total mortality: a meta-analysis of prospective cohort studies. Am J Epidemiol. 2014;180(6):565–73.
+    - 11. Threapleton DE, Greenwood DC, Evans CE, et al. Dietary fiber intake and risk of first stroke: a systematic review and meta-analysis. Stroke. 2013;44(5):1360–8.
+    - 12. Clemens R, Kranz S, Mobley AR, et al. Filling America’s fiber intake gap: summary of a roundtable to probe realistic solutions with a focus on grain-based foods. J Nutr. 2012;142(7):1390S–401S.
+- It apparently doesn’t take much fiber to cut stroke risk. Increasing fiber intake by just seven grams a day may be associated with a 7 percent risk reduction.13
+    - 13. Threapleton DE, Greenwood DC, Evans CE, et al. Dietary fiber intake and risk of first stroke: a systematic review and meta-analysis. Stroke. 2013;44(5):1360–8.

@@ -1,0 +1,27 @@
+x 2022-06-29 Segment to Line Refactoring +Blechbiegeapp @next due:2022-06-28 pri:A
+Fraunhofer Schulung abschließen @waiting due:2022-07-05
+Werkzeuge richtig in Simulation plazieren  +Blechbiegeapp
+x 2022-07-01 Werkzeuge als Oberwange/Unterwange/Biegewange +Blechbiegeapp @next due:2022-06-30 pri:A
+x 2022-06-29 Elektroschrott weg bringen +Haushalt due:2022-06-29
+x 2022-06-29 Wäsche wachen +Haushalt @next due:2022-06-28 pri:B
+x 2022-06-29 Termin mit BendEdit entwickler ausmachen +Blechbiegeapp due:2022-06-29
+x 2022-06-29 2022-06-28 Termin mit Philippa's vorbereiten +Blechbiegeapp due:2022-06-29
+2022-06-28 Pakete zurück schicken +Haushalt due:2022-07-08
+x 2022-07-01 Stadmobil anmelden +Haushalt @next due:2022-06-30
+x 2022-07-01 Stadmobil Führerschein validieren +Haushalt @next due:2022-07-01
+x 2022-07-01 2022-06-29 Peter PayPal +Blechbiegeapp @waiting due:2022-06-30
+2022-07-02 Trriebe weg schneiden +quicktask
+2022-07-02 Garten gießen +quicktask
+2022-07-02 Spülmaschinebtabs +Einkaufsliste
+2022-07-03 Unterhose +Squash
+2022-07-03 T-Shirt +Squash
+2022-07-03 Sporthose +Squash
+2022-07-03 Trinken +Squash
+2022-07-03 Schläger +Squash
+2022-07-03 Handtuch +Squash
+2022-07-03 Sportschuhe +Squash
+2022-07-03 Maske +Squash
+2022-07-03 Geldbeutel +Squash
+2022-07-03 2516 +quicktask
+2022-07-03 57448,6 +quicktask
+2022-07-04 In doodle Liste eintragen +quicktask

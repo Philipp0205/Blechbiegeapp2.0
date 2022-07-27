@@ -1,0 +1,6 @@
+- Libre office
+    - tar xf Libreoffice.tar.gz
+    - cd DEBS
+    - sudo dpkg -i *.deb
+    - ---
+    - https://wiki.documentfoundation.org/Documentation/Install/Linux#Graphic_Installation_.28Preferred_Way.29

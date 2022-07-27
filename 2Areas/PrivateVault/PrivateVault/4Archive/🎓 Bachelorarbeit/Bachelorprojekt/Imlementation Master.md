@@ -1,0 +1,85 @@
+ - Implementation Master
+            - References
+                - [Streams API ](https://dynalist.io/d/lwcu5sEJXpyjbkeDhCP5WGN4#z=t2VMp35MMUGRM-VPsxBxe8ol)
+                - [Port management mit Kafka](https://dynalist.io/d/lwcu5sEJXpyjbkeDhCP5WGN4#z=vEttHpig7cXbvCq5b8dJsIqW)
+                - [Starting Kafka ](https://dynalist.io/d/lwcu5sEJXpyjbkeDhCP5WGN4#z=Rasl-jAq0i_vHBNar9p04hCE)
+            - Fragen
+            - TODO 
+                - **JSON**
+                    - Services/Funktionen json ebenfalls mitmodellieren
+                    - Json so umbennen dass es Sinn ergibt 
+                        - fields zu events umbennen
+                    - mandatory fields einführen
+                    - Notiz zu meinem json entwurf
+                        - im ersten array werden können mandatory fields für alle events festgelegt werodden. Das vermeidet Retundanz
+                        - in den weiteren arrays können mandatory fields per event angegeben werden.
+                - **Topic Handler (Genrator)**
+                    - topic handler übertragt json struktur ( unterschiedliche felder) in schema registry
+                    - topic handler erstellt 3 topics für jedes event 
+                        - order in order out order error
+                    - inbound queue ist ein topic?
+                    - topic handler erstellt schema registry 
+                - **Validator (Orchestrator)** 
+                    - Streaming app welche input topic in output topic wandelt 
+                    - validator subscribed inbound queue 
+            - Whiteboard
+                -  ![IMG_20200224_134411.jpg](https://dynalist.io/u/t7k4EG8cg-y1WPAzjhSe2xCq) 
+                    - S = MS
+                    - E = Event
+                    - Innput
+                        - Events werden definiert, des weiteren wird pro event eine blacklist, eine whitelist und mandatory field angegeben. 
+                        - Daraus kann später der Generator die topics bewerten 
+                        - Aus jedem Event wird ein topic erstellt 
+                        - Jedes topic ist zuerst in einer inbound queue um anschließend getestet ui werden
+                        - Tests 
+                        - Aus einem E1? wird ein E1! und ist damit ein geprüftes topic und kann in die outbound queue gespeichert werden. 
+            - Projektverständnis
+                - **Generator** 
+                    - Erstellt drei topics pro event. 
+                        - Inbound 
+                        - Outbound 
+                        - Error
+                    - In das inbound topic werden nur unvalidierte Ereignisse geschrieben. Ein Schreiben in outbound oder error sollte nicht möglich sein. 
+                    - Externe Consumer dürfen nur out und error Topics subscriben. 
+                - **Orchestrator** (-> Validator) 
+                    - Übernimmt die Überführung von __EreignistypA_in__ zu __EreignistypA_out__ .
+                    - Eigentlich Validator.
+                    - Im out-Topic sind damit nur validierte Ereginisinstanzen zu finden.
+                    - **Wie Fehler entstehen**
+                        - Jeder kann Kafka Ereignisse für ein beliebies Topic produzieren. Aufgrund eines feher schreibt ein Microservice allerdings in das alsche Topic, das würde inkonsistente Prozessinstanzen bedeuten. 
+                        - In einer ereignisgesteuerten Architektur passieren diese Fehler nicht. 
+                - **Email Klotz**
+                  Antworten indent
+                    - **EPN**
+                        - - Das EPN werde ich so umschreiben, dass es besser lesbar und ebenfalls möglich machen das neben Ereignissen auch Funktionen/Prozesse modellierbar sind. (EPK wording).
+                        - - Des weiteren werde ich benutzerdefinierte Felder sowie die Möglichkeit Pflichtfelder zu definierten einführen. 
+                            - Ja, hier bitte so weit es geht die Möglichkeiten der Schema Registry nachahmen, was die Definition von Feldern und Strukturen angeht.
+                    - **Artefakte Generator**
+                        - - Hier erstelle ich pro Ereignis drei topics (in, out, error). 
+                            - Ja - wobei ich ganz korrekt sagen würde, je Ereignistyp.
+                        - - Nach meinem Verständnis werden später in den Records der Topics die Prozessdaten, welche zuvor definiert wurden gespeichert. 
+                            - Ja, ein Record enthält alle (betriebswirtschaftlich) notwendigen Informationen über die konkrete Ereignisinstanz. Was genau notwendig ist kann (muss aber nicht) in EPN modelliert werden (siehe oben).
+                        - - Am Ende wollen wir jeden Prozessdurchlauf/Prozessinstanz isoliert finden können, dafür lassen sich die Topics nutzen. 
+                            - Ja, wobei wir ja irgend eine Form von ID brauchen, die zusammengehörende Ereignis-Instanzen kennzeichnet. Allein durch das Topic ist eine Zuordnung nicht möglich. 
+                        - - Laut der Dokumentation werden in Topics Records gespeichert, welcher aus key, value und timestamp bestehen. Zusätzlich kann ein Topic partitioniert werden und in jeder Partition ist eine fortlaufende Sequenz aus Records gespeichert. 
+                            - Über die Partitionierung würden wir uns erst mal nicht den Kopf zerbrechen. Das wäre für mich eher ein fortgeschrittenes Feature. Für den Moment sind Topics mit nur einer Partition ok.
+                        - __- Was genau verstehen Sie unter "inboud queue". Für mich sind das momentan alle Topics welche initial erstellt werden.__ 
+                            - Sorry für die Begriffsverwirrung. Ich habe Queue und Topic mehr oder weniger synonym verwendet (in vielen Middleware-Lösungen ist der Begriff Queue etabliert). Wir sollten aber zukünftig präzise sein und daher den Begriff Queue nicht mehr verwenden. Was ich mit Inbound Queue meinte, ist das Topic eines Ereignistyps, in das unvalidierte Ereignisse geschrieben werden (Sie hatten oben lediglich “in” geschrieben). Gedanklich ist das “Inbound” für mich, weil Producer nur dieses Topic eines Ereignistyps verwenden dürfen. Ein Schreiben in “our” oder “error” sollte nicht möglich sein. Das “in” Topic ist daher der einzige Weg, ein Ereignis sauber zu schreiben. Analog dazu dürfen “fremde” Consumer (also solche, die nicht Teil unseres Frameworks sind) nur die beiden “out” und “error” Topics subscriben, jedoch nicht das “in” Topic — denn diese Events sind noch nicht validiert und gehen daher niemanden, außer unser Framework, etwas an.
+                    - **EPN Orchestator**
+                        - - Der Orchestrator soll eine Streaming App sein, welcher als Input-Sream die zuvor definierten Topics hat und diese in einen Output-Stream aus mehreren Topics transformiert. Der Input Stream sind für mich alle Topics, welcher der Generator zuvor erstellt hat. 
+                            - Jein. Es sind nicht alle Topics, sondern lediglich die Überführung von “EreignistypA_in” in “EreignistypA_out” (wenn ok) bzw. “EreignistypA_error” (wenn nok). Es muss diese Funktion daher je Ereignistyp geben, denn für jeden Ereignistyp muss ja zwischen …_in und …_out / …_error vermittelt werden. Das ist auch weniger “Orchestrierung”, sondern “Validierung”, von daher sollten wir vielleicht auch hier das Wording etwas schärfen.
+                            - - Was der Output-Stream sein soll weiß ist nicht noch nicht genau. __Soll der Orchestrator einfach nur die Daten des Prozesse in das richtige zuvor erstellte Topic schreiben?__ 
+                                - Ja genau. Was dann damit passiert, hängt ja vom Prozess ab. Möglicherweise gibt es einen oder mehrere Consumer, die sich für das Ereignis interessieren und entsprechende Folgeaktionen antriggern. Aus Sicht des Frameworks ist das alles aber nicht wichtig. Das Framework garantiert lediglich, dass in dem _out Topic nur valide und damit geprüfte Ereignisinstanzen zu finden sind. Analog für das _err Topic: Wie die Fehlerbehandlung aussieht ist für das Framework unwichtig (z.B. Verwerfen, Reprocessing, etc…). Wir stellen nur sicher, dass “nichts verloren geht” und auch fehlerhafte Versuche, ein Ereignis zu schreiben, transparent dokumentiert sind.
+                        - Sie schrieben: "Ziel des dritten Moduls ist die Implementierung von Mechanismen zur Sicherstellung derKonsistenz einzelner Prozessinstanzen."
+                        - __Hier verstehe ich noch nicht wie während der Laufzeit Fehler entstehen können. Nach meinem Verständnis definiert der Benutzer ein mal eine Business-Logik und diese wird ein mal geprüft. Eigentlich können dann zukünftige Prozessinstanzen doch nicht falsch sein oder?__ 
+                            - Ja doch! Jeder kann ja (soweit nicht manuell durch Zugriffsrechte eingeschränkt) in Kafka Ereignisse für ein beliebiges Topic produzieren. Stellen Sie sich z.B. vor, ein Entwickler baut einen neuen Microservice, der als Producer neue Ereignisse schreibt. Aufgrund eines Fehlers schreibt das Programm jedoch in das falsche Topic (z.B. direkt in order-shipped, ohne dass es zuvor ein order-created gibt). Ohne unser Framework würden all diese Events inkonsistente Prozessinstanzen bedeuten. Schlimmer noch, wenn es keine zweistufige Prüfung von _in nach _out gibt, wie durch unser Framework eingeführt, dann würden diese fehlerhaften Events umgehend Folgeaktionen (z.B. Rechnungsstellung) nach sich ziehen. In einer ereignisgesteuerten Architektur geschehen diese Dinge rasend schnell und bis der Fehler bemerkt wird, können hunderte oder tausende inkonsistente Instanzen entstehen. Unternehmen wollen ja diese Echtzeit-Verarbeitung, damit sie noch effizienter arbeiten können, aber sie brauchen auch Sicherheit, dass sie nicht im Chaos enden werden. Und genau das ist der Kern unseres Frameworks: wir stellen in dieser dezentralen, ereignisgetriebenen Architektur sicher, dass ein paar elementare Geschäftsregeln eingehalten werden.
+                        - Das heißt nehmen wir an, im JSON ist ein Fehler definiert. z.B. wird illegal von einem Ereignis ein Prozess angestoßen. Das würde der Orchestrator erkennen und anschließend die Daten die aus diesem Prozess entstehen anstatt in das out-topic in dass error-topic speichern? 
+                            - Ich bin mir nicht sicher, ob wir hier das gleiche Verständnis haben. Via EPN werden die “Schablonen” für Prozesse modelliert. Diese Modellierung ist für mich noch eine Aktivität zur Design-Zeit. Wenn das abgeschlossen ist, wird das EPN auf einen Kafka-Cluster deployed (über die Komponente, die ich “Generator” nenne). Dieser Generator würde natürlich zu allererst prüfen, ob das JSON-File syntaktisch korrektes EPN enthält und falls nicht, mit einem Fehler abbrechen. Wenn es jedoch ok ist, dann werden die entsprechenden Kafka-Artefakte (Topics, Streaming App(s), etc…) erzeugt. Danach beginnt für mich die Runtime: Sind die Topics vorhanden, können Producer und Consumer geschrieben werden, welche Ereignisse erzeugen bzw. Topics pollen und beim Eintreten eines Ereignis dann Folgeaktionen auslösen. Hier sind - wie in der vorherigen Antwort beschrieben - auf jeden Fall Fehler möglich, z.B. wenn ein Producer in das falsche Topic postet (wie oben beschrieben) oder das Ereignis im “value” Teil ein notwendiges Pflichtfeld nicht besitzt. Beides würde dazu führen, dass unsere Logik (in der Streaming App) den Fehler erkennt und das Ereignis damit nicht “freigibt” (also in _out schreibt), sondern es als Fehler kennzeichnet (und damit in _error schreibt).
+            - Links
+                - Example codemo
+                    - Kafka schema registry
+                        - https://sourcegraph.com/github.com/simplesteph/kafka-avro-course
+                    - Kafka consumer and producer 
+                        - https://github.com/simplesteph/kafka-beginners-course
+                    - Kafka Streams
+                        - https://github.com/simplesteph/kafka-streams-course/tree/2.0.0

@@ -1,0 +1,316 @@
+- Packliste Fitness 
+    - Schuhe
+    - Hose
+    - Oberteil
+    - Trinken 
+    - Shampoo
+    - Unterwäsche
+    - (Badelatschen) 
+    - (Großes Handtuch) 
+    - Kleines Handtuch 
+    - Deo
+- Packliste Camping (z.B. DTM) 
+    - Plan
+        - 1,5h Fahrt
+        - +1,5 Aufbauen einkaufen etc.
+        - 10:35 - 3h = 7:30!! 
+    - Camping (DTM)
+        - **Camping**
+            - Geschirr
+            - Campingstühle
+            - Schlafsack
+            - Lampe
+            - Isomatte
+            - Zelt 
+            - Karten
+            - Spiele
+            - An Frühstück denken
+            - Musik
+        - **Hygiene** 
+            - Sonnenchreme
+            - Deo
+            - Zahnbürste
+            - Shampoo
+            - Kamm
+        - **Am Körper**
+            - Sonnenbrille
+            - Mütze
+            - Pollendings
+            - Jacke
+            - Akkubank
+            - Ladekabel / Handy
+            - Akkubank 
+            - Kopfhörer
+            - Kleidung
+                - Sweat-Jacke
+                - T-Shirt
+                - Hose
+                - Unterhose
+            - Geldbeutel
+                - Geld
+            - Rucksack
+
+
+
+- Packliste Ski fahren 
+  Vom 2.-3. März 2018 in Warth
+  Updated 7. Februar 2020 Südtirol
+    - Skizeug
+        - Kopf
+            - Helm
+            - Brille
+            - Sturmmaske
+        - Körper
+            - Skiunterwäsche: Hose und Top
+            - Skishirt / Pulli (Zwiebelpinzip beachten)
+            - Jacke
+        - Hände
+            - Handschuhe
+            - Skistöcke
+        - Beine
+            - Skiunterwäsche: Hose und Top
+            - Skihose
+        - Füße
+            - Skischuhe
+            - Ski
+            - Skisocken
+    - Transport
+        - Handtücher (fürs Auto), Handbesen (Schnee weg von skieren), 
+    - Rucksack
+        - Snacks
+        - Wasser
+        - Sonnencherene 
+        - Nasenspray 
+        - Aufladekabel
+    - Hygiene
+        - Deo
+        - Duschgel
+        - Kamm
+        - L-Thyroxin
+        - Zahnbürste
+        - Zahnpasta
+        - Lippenstift 
+        - Brille + Etui
+        - Kontaktlinsen
+        - Kontaktlinsenwasser
+    - Abend
+        - Ein Mal komplettes Wechsel Zeug
+            - Unterwäsche
+            - Socken
+            - Pulli
+            - Hose
+    - Bei mehreren Tagen 
+        - Schlafen 
+            - Schlafzeug
+            - Großer Turm
+        - Kleidung für x Tage
+            - X Unterhosen (Unterhemden)
+            - X Socken 
+            - X/2 Tshirts, Pullis sweat jacken
+            - X/4 Hosen 
+    - Am Ski-Tag anziehen
+        - Skiunterwäsche
+        - Skisocken
+        - Shirt
+        - Fkießpulli
+- Packliste kurze Reise 
+  Erstellt 26.02. Marakesh
+    - Rucksack
+        - Snacks
+        - Wasser
+        - Sonnenchreme
+        - Nasenspray 
+        - Aufladekabel
+        - Laptop 
+        - Aufladekabel
+        - Handy
+        - Astmahspray 
+        - Kopfhörer (+noicescanceling)
+    - Hygiene (Bei Flug kleine Sachen + Plastikbeutel kaufen)
+        - Deo
+        - Duschgel
+        - Kamm
+        - L-Thyroxin
+        - Zahnbürste
+        - Zahnpasta
+        - Lippenstift 
+        - Brille + Etui
+        - Kontaktlisen + Spülung
+    - Bei mehreren Tagen 
+        - Schlafen 
+            - Schlafzeug
+            - Großer Turm
+        - Kleidung für x Tage
+            - X Unterhosen (Unterhemden)
+            - X Socken 
+            - X/2 Tshirts, Pullis sweat jacken
+            - X/4 Hosen / kurze Hosen
+        - temp: Kleidung für 4 Tage warm
+            - 4 Unterhosen
+            - 4 Paar socken
+            - 4 Tshirts
+            - 2 kurze Hosen 
+- Packliste Fahrradtour 
+  (wenn es etwas kälter ist ~10 Grad)
+    - Kleidung
+        - Kopf
+            - Stirnband / Sturmmütze
+            - Helm
+        - Oben
+            - Funktionsunterhemd
+            - Baumwollhemd
+            - Dünne Fließjacke
+            - Dünne Outdoor Jacke
+        - Unten
+            - Fahrradunterhose
+            - Funktionsunterhose
+            - Lange Sporthose
+        - Füße
+            - Dicke Socken
+            - Schuhe
+    - Rucksack
+        - Wasser
+        - Fahrradschloss
+        - Regenjacke
+        - Geldbeutel 
+        - Akkubank
+    - Anderes
+        - Handtücher
+            - wenn man Fahrrad mit Auto transportiert
+            - und zum drauf sitzen danach
+- Packliste England 
+    - **Kleidung**
+        - **Hosen**
+            - 2-3 Jeans
+            - 1 Kurze Hose
+        - **Schuhe**
+            - Feste Schuhe
+            - Sneaker (hab ich an)
+        - **Unterwäsche**
+            - 7 Unterhosen
+            - 4 kleine Socken
+            - 4 große Socken
+            - 5 Unterhemden
+        - 3 Pullis
+        - 4 Tshirts
+        - 4 Sweat Jacken
+        - 1 Mütze
+        - (Handtuch)
+        - **Jacken**
+            - Eine leichte Jacke
+            - Eine Wetterjacke / Regenjacke
+        - 2 Jogginghosen
+        - **Andere Kleidung**
+            - **Sport**
+                - 3 Tshirts
+                - 2 Sporthosen
+                - Sportschuhe
+            - **Schlafen**
+                - 2 Tshirts
+                - 1 Schlafhose
+            - 1 Badehose
+            - Sonnenbrille
+            - Mütze
+            - Brille
+            - Gürtel
+    - **Kulturbeutel**
+        - Nasenspray
+        - L-Thyroxin
+        - Zahnbürste
+        - Zahnpasta
+        - Shampoo
+        - Nagelschere
+        - Deo
+        - Mückenspray
+        - Haargel
+        - Rasierer
+        - Kamm
+        - Ohrenstäbchen
+        - Sonnenchreme
+        - Asthma
+    - Anderes
+        - Reiseadapter
+        - Ladekabel
+        - Kleiner Rucksack
+        - Label für Koffer
+        - Sim-Tool
+    - **Handgepäck**
+        - Reisepass
+        - Impfpass
+        - Flugticket
+        - Geldbeutel
+        - Laptop
+        - Akkubank
+        - Paracetamol
+        - Kopfhörer
+        - Regenschirm
+        - Key abhol Ding
+        - Großer Turm
+        - Hausschuhe
+- Kaufliste England
+    - Handtücher
+    - Wäschesack
+    - Lampe? 
+    - Tupperware? 
+    - Storage Boxes
+    - Pfannen usw.?
+    - Cards against humanity
+- Packliste Wandern
+    - Kaufen
+        - Genug Sandwiches
+        - Snacks
+        - 1,5-2l Water
+    - Anziehe am Tag
+        - Ski underwear
+        - Rain trousers / Jeans
+        - T-Shirt + Sweat Jacke
+    - Bring:
+        - Plastic bags
+        - 2x pants
+        - Raincoat
+        - Fle ece
+        - Toilet paper
+        - Power bank
+        - Cards
+        - Brille
+        - Warme Mütze
+        - Handschuhe 
+        - Schlafsachen
+    - Hygiene
+        - Deo
+        - Zahnbürste + Zahnpasta
+        - Kamm
+        - Tempos
+        - Nasenspray
+        - Pflaster 
+    - Optional 
+        - Head torch
+        - Knife
+        - Sleeping bag
+        - Mattress
+        - Tent
+        - First aid kit
+- Packliste Wochenendtrip Stadt
+    - Einmal komplette Wechselklamotten
+        - Pulli
+        - Unterhose 
+        - Unterhemd
+        - (Jeans)
+        - Socken
+    - Schlafsachen
+        - Jogginghose 
+        - Pulli
+    - Anderes 
+        - Kaffeebecher
+        - Laptop
+        - Handx
+        - Geldneutel
+        - Aufladwkabel
+    - Hygiene
+        - Hygiene
+            - Deo
+            - Kamm
+            - L-Thyroxin
+            - Zahnbürste
+            - Zahnpasta
+            - Fettstift

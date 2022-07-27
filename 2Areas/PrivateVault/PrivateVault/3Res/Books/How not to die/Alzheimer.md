@@ -1,0 +1,18 @@
+ Alzheimer
+	- Incurable but preventable
+	- Clogging of arteries inside the brain play a vital role in the development of Alzheimer
+	- Vegetalbes, legumes (beans, peas, lentils), fruits and wholegrains prevent that
+	- ---
+	- The good news, as a senior scientist at the Center for Alzheimer’s Research entitled a review article, is that “Alzheimer’s Disease Is Incurable but Preventable.”[61](file:///text/part0045.html#chapter3-61) Diet and lifestyle changes could potentially prevent millions of cases a year.[62](file:///text/part0045.html#chapter3-62) How? There is an emerging consensus that “what is good for our hearts is also good for our heads,”[63](file:///text/part0045.html#chapter3-63) because clogging of the arteries inside of the brain with atherosclerotic plaque is thought to play a pivotal role in the development of Alzheimer’s disease.[64](file:///text/part0045.html#chapter3-64) It is not surprising, then, that the dietary centerpiece of the 2014 “Dietary and Lifestyle Guidelines for the Prevention of Alzheimer’s Disease,” published in the journal Neurobiology of Aging, was: “Vegetables, legumes (beans, peas, and lentils), fruits, and whole grains should replace meats and dairy products as primary staples of the diet.”[65](file:///text/part0045.html#chapter3-65)
+		- 61. de la Torre JC. Alzheimer’s disease is incurable but preventable. J Alzheimers Dis. 2010;20(3):861–70.
+		- 62. Barnes DE, Yaffe K. The projected effect of risk factor reduction on Alzheimer’s disease prevalence. Lancet Neurol. 2011;10(9):819–28.
+		- 63. Singh-Manoux A, Kivimaki M, Glymour MM, et al. Timing of onset of cognitive decline: results from Whitehall II prospective cohort study. BMJ. 2012;344:d7622.
+		- 64. Roher AE, Tyas SL, Maarouf CL, et al. Intracranial atherosclerosis as a contributing factor to Alzheimer’s disease dementia. Alzheimers Dement. 2011;7(4):436–44.
+		- 65. Barnard ND, Bush AI, Ceccarelli A, et al. Dietary and lifestyle guidelines for the prevention of Alzheimer’s disease. Neurobiol Aging. 2014;35 Suppl 2:S74–8.
+	- Treating Alzheimer’s with Saffron
+		- Saffron diminishes the symptoms of Alzheimer's deasease.
+		- ---
+		- Although some remarkable benefits have been reported in anecdotal case studies with the spice turmeric,[129](file:///text/part0046.html#chapter3-129) the best data we have on spice-based interventions for Alzheimer’s is for saffron. A spice derived from the flower of Crocus sativus, saffron was found in a double-blind trial to help diminish the symptoms of Alzheimer’s disease. In a sixteen-week study, Alzheimer’s patients with mild to moderate dementia who took saffron capsules displayed significantly better cognitive function on average than a group of patients who took a placebo.[130](file:///text/part0046.html#chapter3-130)
+			- 129. Hishikawa N, Takahashi Y, Amakusa Y, et al. Effects of turmeric on Alzheimer’s disease with behavioral and psychological symptoms of dementia. Ayu. 2012;33(4):499–504.
+			- 130. Akhondzadeh S, Sabet MS, Harirchian MH, et al. Saffron in the treatment of patients with mild to moderate Alzheimer’s disease: a 16-week, randomized and placebo-controlled trial. J Clin Pharm Ther. 2010;35(5):581–8.
+- 

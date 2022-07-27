@@ -1,0 +1,3 @@
+- Komponenten
+	- [[4Archive/💻 Agile Forms/Seiten Komponente]]outer]]
+	- [[React]][[4Archive/💻 Agile Forms/React Router]]https://gitlab.syngenio.info[[4Archive/💻 Agile Forms/Arbeitszeit]]d66b66187dccd44c7343a766a89ca5
