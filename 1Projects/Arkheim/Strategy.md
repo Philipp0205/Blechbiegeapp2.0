@@ -25,6 +25,11 @@ Focus on your resource fields and your **AGs** units. Do you have enough **AGs**
 
 # Island 2 Objectives8
 1. Open 18th fields 
-2. Max 18 fields to 1
+2. Max 18 fields to 18 
+3. AGs until level >= 9
+4. Finish the GTs Quest
+5. Finish the Supply quest
+6. Donations >= 11kk
+7. Have 30k AGs in stoc
 
 
