@@ -23,13 +23,15 @@ Focus on your resource fields and your **AGs** units. Do you have enough **AGs**
 
 **What FS is needed to clear a supply?** Let's say that a supply has 2 WLs inside with 20K FS each. We need **20k/1.70 =12K** If we send 2 WL against the supply with 12-18K(WL type is important) FS each, we clear the supply. But, if we send 5 WL with 8K FS each, our losses are more and we might not clear the supply.
 
-# Island 2 Objectives8
+# Island 2 Objectives
 1. Open 18th fields 
 2. Max 18 fields to 18 
 3. AGs until level >= 9
 4. Finish the GTs Quest
 5. Finish the Supply quest
 6. Donations >= 11kk
-7. Have 30k AGs in stoc
+7. Have 30k AGs in stock before i3
+
+
 
 
