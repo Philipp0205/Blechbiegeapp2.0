@@ -1,3 +1,3 @@
 Bookmarks
 =========
-- [Overview | QOwnNotes](https://www.qownnotes.org/getting-started/overview.html#features)
+- [Mit dem Packraft auf der Altmühl (3-Tages-Paddeltour) - Fräulein Draussen](https://fraeulein-draussen.de/packraft-altmuehl-paddeltour/)
