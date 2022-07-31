@@ -16,8 +16,11 @@ Luxemburg 2022 Packliste
 - [] Paddelhandschuhe / Segelhandschuhe 
 - [] Sonnenbrille 
 
+- [ ] T-Shirts
+- [ ] 
+
 - **Die untere Schicht** (Schweiß durch lassen, körper trocken halten)
-	- [x] Funktionsunterwäsche oder Skiunterwäsche
+	- [] Funktionsunterwäsche oder Skiunterwäsche
 - **Die mittlere Schicht** (Ableitung von Schweiß, Isolierung)
 	- [x] T-Shirts (kurze + lange ärmel) 
 	- [x] Pullover/Fleece-Weste (keine Baumwolle)
