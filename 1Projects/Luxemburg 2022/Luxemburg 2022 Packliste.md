@@ -13,7 +13,6 @@ Luxemburg 2022 Packliste
 - [] Regenhose 
 - [] Unterwäsche 
 - [] Mütze 
-- [] Buff
 - [] Paddelhandschuhe / Segelhandschuhe 
 - [] Sonnenbrille 
 
