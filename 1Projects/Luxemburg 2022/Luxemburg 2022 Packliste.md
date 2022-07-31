@@ -1,8 +1,6 @@
 Luxemburg 2022 Packliste
 ========================
-
-
-
+Orientiert an: 
 [Schweden Packliste](..%2F..%2F2Areas%2FPrivateVault%2FPrivateVault%2F4Archive%2FKnuTripSchweden%2FSchweden%20Packliste.md)
 
 # Packliste
@@ -52,27 +50,27 @@ Luxemburg 2022 Packliste
 - [ ] Zahnbürste + biolog. Zahnpasta
 
 ## Anderes
-- [x] Kamera
-- [x] Handy
-- [x] Powerbank
-- [x] Öko-Müllbeutel
-- [x] Ducktape
-- [x] Reisepass 
-- [x] Wasseraufbereitungstabletten
-- [x] Offline karten laden (Kommot oder maps.me)
-- [x] Spotify playlists laden
-- [x] L-Thyroxin
-- [x] Brille
-- [x] Ereader
+- [ ] Kamera
+- [ ] Handy
+- [ ] Powerbank
+- [ ] Öko-Müllbeutel
+- [ ] Ducktape
+- [ ] Reisepass 
+- [ ] Wasseraufbereitungstabletten
+- [ ] Offline karten laden (Kommot oder maps.me)
+- [ ] Spotify playlists laden
+- [ ] L-Thyroxin
+- [ ] Brille
+- [ ] Ereader
 
 ## Takeaways
-- [x] Schnur
-- [x] IKEA Knipser
-- [x] Kartenspiel
-- [x] Shitschaufel
-- [x] Karabiner
-- [x] Labello
-- [x] Poncho welches auch plane sein kann 
+- [ ] Schnur
+- [ ] IKEA Knipser
+- [ ] Kartenspiel
+- [ ] Shitschaufel
+- [ ] Karabiner
+- [ ] Labello
+- [ ] Poncho welches auch plane sein kann 
 - [x] Desinfektion
-- [x] Ohrenstäbchen
+- [ ] Ohrenstäbchen
 -
