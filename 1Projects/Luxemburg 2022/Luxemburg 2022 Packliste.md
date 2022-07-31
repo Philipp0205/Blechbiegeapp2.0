@@ -8,6 +8,7 @@ Orientiert an:
 ## Kleidung
 - [ ] Wasserschuhe
 - [ ] Wanderschuhe
+- [ ] Trinkfalschen
 - [ ] Paddelhose
 - [ ] Regenhose
 - [ ] Unterwäsche
