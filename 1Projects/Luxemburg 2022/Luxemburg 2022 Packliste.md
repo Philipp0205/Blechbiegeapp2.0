@@ -6,14 +6,14 @@ Orientiert an:
 # Packliste
 
 ## Kleidung
-- [] Wasserschuhe 
-- [] Wanderschuhe 
-- [] Paddelhose 
-- [] Regenhose 
-- [] Unterwäsche 
-- [] Mütze 
-- [] Paddelhandschuhe / Segelhandschuhe 
-- [] Sonnenbrille 
+- [ ] Wasserschuhe
+- [ ] Wanderschuhe
+- [ ] Paddelhose 
+- [ ] Regenhose 
+- [ ] Unterwäsche 
+- [ ] Mütze 
+- [ ] Paddelhandschuhe / Segelhandschuhe 
+- [ ] Sonnenbrille 
 
 - [ ] T-Shirts
 - [ ] Pullover
@@ -71,6 +71,6 @@ Orientiert an:
 - [ ] Karabiner
 - [ ] Labello
 - [ ] Poncho welches auch plane sein kann 
-- [x] Desinfektion
+- [ ] Desinfektion
 - [ ] Ohrenstäbchen
 -
