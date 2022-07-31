@@ -8,17 +8,17 @@ Orientiert an:
 # Packliste
 
 ## Kleidung
-- [ ] Wasserschuhe
+- [x] Wasserschuhe
 - [ ] Wanderschuhe
 - [ ] Trinkfalsche
-- [ ] Paddelhose
-- [ ] Regenhose
+- [x] Paddelhose
+- [x] Regenhose
 - [ ] Jacke
-- [ ] Unterwäsche
-- [ ] Socken
-- [ ] Mütze
-- [ ] Paddelhandschuhe / Segelhandschuhe
-- [ ] Sonnenbrille
+- [x] Unterwäsche
+- [x] Socken
+- [x] Mütze
+- [x] Paddelhandschuhe / Segelhandschuhe
+- [x] Sonnenbrille
 - [ ] ---------
 - [ ] T-Shirts
 - [ ] Pullover
@@ -26,29 +26,29 @@ Orientiert an:
 
 ## Camping 
 - [ ] Zelt
-- [ ] Schlafsack (Sommer) 
-- [ ] Schlafmatte
-- [ ] Kopfkissen 
-- [ ] Camping Besteck (Teller, Tasse, Besteck) 
-- [ ] Geschirrtuch
-- [ ] Taschenmesser
-- [ ] Stirnlampe / Taschenlampe
-- [ ] Kartenspiele
-- [ ] Großer Rucksack
-- [ ] Sitzkissen 
-- [ ] Feuerzeug / Feuer Stahl 
+- [ ] **Schlafsack (Sommer) **
+- [x] Schlafmatte
+- [x] Kopfkissen 
+- [x] Camping Besteck (Teller, Tasse, Besteck) 
+- [x] Geschirrtuch
+- [x] Taschenmesser
+- [x] Stirnlampe / Taschenlampe
+- [x] Kartenspiele
+- [x] Großer Rucksack
+- [x] Sitzkissen 
+- [x] Feuerzeug / Feuer Stahl 
 
 ## Hygiene 
-- [ ] Duschbrocken (biologisch abbaubar)
-- [ ] Kulturbeutel
-- [ ] Labello
+- [x] Duschbrocken (biologisch abbaubar)
+- [ ] **Kulturbeutel**
+- [x] Labello
 - [ ] Mundschutz
 - [ ] Handdesinfektionsmitte
-- [ ] Handtuch (Mikrofaser)
+- [x] Handtuch (Mikrofaser)
 - [ ] Sonnenchreme
 - [ ] Mückenspray
 - [ ] Toilettenpapier (biolog. abbaubar)
-- [ ] Mülltüten
+- [x] Mülltüten
 - [ ] Tempos
 - [ ] Erste-Hilfe-Koffer (Blasenpflaster, Sportbänder, Rettungsdecke)
 - [ ] Zahnbürste + biolog. Zahnpasta
@@ -77,4 +77,3 @@ Orientiert an:
 - [ ] Poncho welches auch plane sein kann 
 - [ ] Desinfektion
 - [ ] Ohrenstäbchen
--
