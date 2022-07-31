@@ -23,18 +23,17 @@ Luxemburg 2022 Packliste
 
 ## Camping 
 - [ ] Zelt
-- [ j] Wasserdichte Plane
-- [] Warmer Schlafsack (Komforttemperatur 11G)
-- [] Schlafmatte
-- [] Kopfkissen 
-- [] Camping Besteck (Teller, Tasse, Besteck) 
-- [] Geschirrtuch
-- [] Taschenmesser
-- [] Stirnlampe / Taschenlampe
-- [] Kartenspiele
-- [] Großer Rucksack
-- [] Sitzkissen 
-- [] Feuerzeug
+- [ ] Schlafsack (Sommer) 
+- [ ] Schlafmatte
+- [ ] Kopfkissen 
+- [ ] Camping Besteck (Teller, Tasse, Besteck) 
+- [ ] Geschirrtuch
+- [ ] Taschenmesser
+- [ ] Stirnlampe / Taschenlampe
+- [ ] Kartenspiele
+- [ ] Großer Rucksack
+- [ ] Sitzkissen 
+- [ ] Feuerzeug
 
 ## Hygiene 
 - [x] Duschbrocken (biologisch abbaubar)
