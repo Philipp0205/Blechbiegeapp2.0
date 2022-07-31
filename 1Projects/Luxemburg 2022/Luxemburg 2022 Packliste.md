@@ -8,13 +8,13 @@ Orientiert an:
 ## Kleidung
 - [ ] Wasserschuhe
 - [ ] Wanderschuhe
-- [ ] Paddelhose 
-- [ ] Regenhose 
-- [ ] Unterwäsche 
-- [ ] Mütze 
-- [ ] Paddelhandschuhe / Segelhandschuhe 
-- [ ] Sonnenbrille 
-
+- [ ] Paddelhose
+- [ ] Regenhose
+- [ ] Unterwäsche
+- [ ] Mütze
+- [ ] Paddelhandschuhe / Segelhandschuhe
+- [ ] Sonnenbrille
+- [ ] ---------
 - [ ] T-Shirts
 - [ ] Pullover
 - [ ] Jacke
