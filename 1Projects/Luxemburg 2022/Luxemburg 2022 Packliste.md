@@ -13,14 +13,15 @@ Orientiert an:
 - [ ] Trinkfalsche
 - [ ] Paddelhose
 - [ ] Regenhose
+- [ ] Jacke
 - [ ] Unterwäsche
+- [ ] Socken
 - [ ] Mütze
 - [ ] Paddelhandschuhe / Segelhandschuhe
 - [ ] Sonnenbrille
 - [ ] ---------
 - [ ] T-Shirts
 - [ ] Pullover
-- [ ] Jacke
 - [ ] Badehose
 
 ## Camping 
