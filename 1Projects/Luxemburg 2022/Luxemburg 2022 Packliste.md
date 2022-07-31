@@ -7,15 +7,15 @@ Luxemburg 2022 Packliste
 ![[TCT21_Packlist_DE.pdf]]
 
 ## Kleidung
-- [x] Wasserschuhe 
-- [x] Wanderschuhe 
-- [x] Paddelhose 
-- [x] Regenhose 
-- [x] Unterwäsche 
-- [x] Mütze 
-- [x] Buff
-- [x] Paddelhandschuhe / Segelhandschuhe 
-- [x] Sonnenbrille 
+- [] Wasserschuhe 
+- [] Wanderschuhe 
+- [] Paddelhose 
+- [] Regenhose 
+- [] Unterwäsche 
+- [] Mütze 
+- [] Buff
+- [] Paddelhandschuhe / Segelhandschuhe 
+- [] Sonnenbrille 
 
 - **Die untere Schicht** (Schweiß durch lassen, körper trocken halten)
 	- [x] Funktionsunterwäsche oder Skiunterwäsche
