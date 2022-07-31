@@ -46,9 +46,9 @@ Luxemburg 2022 Packliste
 - [ ] Mückenspray
 - [ ] Toilettenpapier (biolog. abbaubar)
 - [ ] Mülltüten
-- [] Tempos
-- [] Erste-Hilfe-Koffer (Blasenpflaster, Sportbänder, Rettungsdecke)
-- [] Zahnbürste + biolog. Zahnpasta
+- [ ] Tempos
+- [ ] Erste-Hilfe-Koffer (Blasenpflaster, Sportbänder, Rettungsdecke)
+- [ ] Zahnbürste + biolog. Zahnpasta
 
 ## Anderes
 - [x] Kamera
