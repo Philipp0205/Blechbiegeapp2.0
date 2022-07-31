@@ -33,22 +33,22 @@ Luxemburg 2022 Packliste
 - [ ] Kartenspiele
 - [ ] Großer Rucksack
 - [ ] Sitzkissen 
-- [ ] Feuerzeug
+- [ ] Feuerzeug / Feuer Stahl 
 
 ## Hygiene 
-- [x] Duschbrocken (biologisch abbaubar)
-- [x] Kulturbeutel
-- [x] Labello
-- [x] Mundschutz
-- [x] Handdesinfektionsmitte
-- [x] Handtuch (Mikrofaser)
-- [x] Sonnenchreme
-- [x] Mückenspray
-- [x] Toilettenpapier (biolog. abbaubar)
-- [x] Mülltüten
-- [x] Tempos
-- [x] Erste-Hilfe-Koffer (Blasenpflaster, Sportbänder, Rettungsdecke)
-- [x] Zahnbürste + biolog. Zahnpasta
+- [ ] Duschbrocken (biologisch abbaubar)
+- [ ] Kulturbeutel
+- [ ] Labello
+- [ ] Mundschutz
+- [ ] Handdesinfektionsmitte
+- [ ] Handtuch (Mikrofaser)
+- [ ] Sonnenchreme
+- [ ] Mückenspray
+- [ ] Toilettenpapier (biolog. abbaubar)
+- [ ] Mülltüten
+- [] Tempos
+- [] Erste-Hilfe-Koffer (Blasenpflaster, Sportbänder, Rettungsdecke)
+- [] Zahnbürste + biolog. Zahnpasta
 
 ## Anderes
 - [x] Kamera
