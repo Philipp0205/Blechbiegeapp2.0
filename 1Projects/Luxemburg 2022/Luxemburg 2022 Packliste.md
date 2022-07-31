@@ -17,34 +17,24 @@ Luxemburg 2022 Packliste
 - [] Sonnenbrille 
 
 - [ ] T-Shirts
-- [ ] 
-
-- **Die untere Schicht** (Schweiß durch lassen, körper trocken halten)
-	- [] Funktionsunterwäsche oder Skiunterwäsche
-- **Die mittlere Schicht** (Ableitung von Schweiß, Isolierung)
-	- [x] T-Shirts (kurze + lange ärmel) 
-	- [x] Pullover/Fleece-Weste (keine Baumwolle)
-- **Die oberste Schicht** (Abgabe von Schweiß an Umgebung, winddicht, Schutz des Körpers)
-	- [x] Hardshell-Jacke (wasser- u. winddicht)
-	- [x] Softshelljacke (wasserdicht)
-	- [x] Daunen / Fleece Jacke für im Lager
-- **Baden**
-	- Badehose
+- [ ] Pullover
+- [ ] Jacke
+- [ ] Badehose
 
 ## Camping 
-- [x] Zelt
-- [x] Wasserdichte Plane
-- [x] Warmer Schlafsack (Komforttemperatur 11G)
-- [x] Schlafmatte
-- [x] Kopfkissen 
-- [x] Camping Besteck (Teller, Tasse, Besteck) 
-- [x] Geschirrtuch
-- [x] Taschenmesser
-- [x] Stirnlampe / Taschenlampe
-- [x] Kartenspiele
-- [x] Großer Rucksack
-- [x] Sitzkissen 
-- [x] Feuerzeug
+- [ ] Zelt
+- [ j] Wasserdichte Plane
+- [] Warmer Schlafsack (Komforttemperatur 11G)
+- [] Schlafmatte
+- [] Kopfkissen 
+- [] Camping Besteck (Teller, Tasse, Besteck) 
+- [] Geschirrtuch
+- [] Taschenmesser
+- [] Stirnlampe / Taschenlampe
+- [] Kartenspiele
+- [] Großer Rucksack
+- [] Sitzkissen 
+- [] Feuerzeug
 
 ## Hygiene 
 - [x] Duschbrocken (biologisch abbaubar)
