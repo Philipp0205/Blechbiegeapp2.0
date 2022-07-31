@@ -8,9 +8,9 @@ Orientiert an:
 ## Kleidung
 - [ ] Wasserschuhe
 - [ ] Wanderschuhe
-- [ ] Trinkfalschen
+- [ ] Trinkfalsche
 - [ ] Paddelhose
-- [ ] Regenhose Packliste.pdf../../attachments/Packliste.pf
+- [ ] Regenhose
 - [ ] Unterwäsche
 - [ ] Mütze
 - [ ] Paddelhandschuhe / Segelhandschuhe
