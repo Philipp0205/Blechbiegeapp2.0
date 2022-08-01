@@ -26,7 +26,7 @@ Orientiert an:
 
 ## Camping 
 - [ ] Zelt
-- [ ] **Schlafsack (Sommer) **
+- [ ] **Schlafsack (Sommer)**
 - [x] Schlafmatte
 - [x] Kopfkissen 
 - [x] Camping Besteck (Teller, Tasse, Besteck) 
@@ -40,7 +40,7 @@ Orientiert an:
 
 ## Hygiene 
 - [x] Duschbrocken (biologisch abbaubar)
-- [ ] **Kulturbeutel**
+- [x] **Kulturbeutel**
 - [x] Labello
 - [ ] Mundschutz
 - [ ] Handdesinfektionsmitte
@@ -50,22 +50,22 @@ Orientiert an:
 - [ ] Toilettenpapier (biolog. abbaubar)
 - [x] Mülltüten
 - [ ] Tempos
-- [ ] Erste-Hilfe-Koffer (Blasenpflaster, Sportbänder, Rettungsdecke)
+- [x] Erste-Hilfe-Koffer (Blasenpflaster, Sportbänder, Rettungsdecke)
 - [ ] Zahnbürste + biolog. Zahnpasta
 
 ## Anderes
-- [ ] Kamera
+- [x] **Kamera**
 - [ ] Handy
-- [ ] Powerbank
+- [x] Powerbank
 - [ ] Öko-Müllbeutel
 - [ ] Ducktape
 - [ ] Reisepass 
-- [ ] Wasseraufbereitungstabletten
+- [x] Wasseraufbereitungstabletten
 - [ ] Offline karten laden (Kommot oder maps.me)
-- [ ] Spotify playlists laden
-- [ ] L-Thyroxin
-- [ ] Brille
-- [ ] Ereader
+- [x] Spotify playlists laden
+- [x] L-Thyroxin
+- [x] Brille
+- [x] **Ereader**
 
 ## Takeaways
 - [ ] Schnur
@@ -73,7 +73,4 @@ Orientiert an:
 - [ ] Kartenspiel
 - [ ] Shitschaufel
 - [ ] Karabiner
-- [ ] Labello
 - [ ] Poncho welches auch plane sein kann 
-- [ ] Desinfektion
-- [ ] Ohrenstäbchen
