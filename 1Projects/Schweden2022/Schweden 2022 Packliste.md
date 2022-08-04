@@ -3,15 +3,15 @@
 Orientiert an [Schweden Packliste](..%2F..%2F2Areas%2FPrivateVault%2FPrivateVault%2F4Archive%2FKnuTripSchweden%2FSchweden%20Packliste.md)
 
 ## Kleidung
-- [ ] Wasserschuhe  
+- [x] Wasserschuhe  
 - [ ] Wanderschuhe 
-- [ ] Paddelhose 
-- [ ] Regenhose 
-- [ ] Unterwäsche 
-- [ ] Mütze 
+- [x] Paddelhose 
+- [x] Regenhose 
+- [x] Unterwäsche 
+- [x] Mütze 
 - [ ] Buff
-- [ ] Paddelhandschuhe / Segelhandschuhe 
-- [ ] Sonnenbrille 
+- [x] Paddelhandschuhe / Segelhandschuhe 
+- [x] Sonnenbrille 
 
 - **Die untere Schicht** (Schweiß durch lassen, körper trocken halten)
 	- [ ] Funktionsunterwäsche oder Skiunterwäsche
