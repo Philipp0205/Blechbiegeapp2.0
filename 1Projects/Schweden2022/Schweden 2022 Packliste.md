@@ -62,12 +62,12 @@ Orientiert an [Schweden Packliste](..%2F..%2F2Areas%2FPrivateVault%2FPrivateVaul
 - [x] Öko-Müllbeutel
 - [x] Ducktape
 - [x] Reisepass 
-- [ ] Wasseraufbereitungstabletten
-- [ ] Offline karten laden (Kommot oder maps.me)
-- [ ] Spotify playlists laden
-- [ ] L-Thyroxin
-- [ ] Brille
-- [ ] Ereader
+- [x] Wasseraufbereitungstabletten
+- [x] Offline karten laden (Kommot oder maps.me)
+- [x] Spotify playlists laden
+- [x] L-Thyroxin
+- [x] Brille
+- [x] Ereader
 
 ## Takeaways
 - [ ] Schnur
