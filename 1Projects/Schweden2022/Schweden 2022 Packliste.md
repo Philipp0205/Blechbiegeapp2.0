@@ -41,26 +41,26 @@ Orientiert an [Schweden Packliste](..%2F..%2F2Areas%2FPrivateVault%2FPrivateVaul
 - [ ] Feuerzeug
 
 ## Hygiene 
-- [x] Duschbrocken (biologisch abbaubar)
-- [x] Kulturbeutel
-- [x] Labello
-- [x] Mundschutz
-- [x] Handdesinfektionsmitte
-- [x] Handtuch (Mikrofaser)
-- [x] Sonnenchreme
-- [x] Mückenspray
-- [x] Toilettenpapier (biolog. abbaubar)
-- [x] Mülltüten
-- [x] Tempos
-- [x] Erste-Hilfe-Koffer (Blasenpflaster, Sportbänder, Rettungsdecke)
-- [x] Zahnbürste + biolog. Zahnpasta
+- [ ] Duschbrocken (biologisch abbaubar)
+- [ ] Kulturbeutel
+- [ ] Labello
+- [ ] Mundschutz
+- [ ] Handdesinfektionsmitte
+- [ ] Handtuch (Mikrofaser)
+- [ ] Sonnenchreme
+- [ ] Mückenspray
+- [ ] Toilettenpapier (biolog. abbaubar)
+- [ ] Mülltüten
+- [ ] Tempos
+- [ ] Erste-Hilfe-Koffer (Blasenpflaster, Sportbänder, Rettungsdecke)
+- [ ] Zahnbürste + biolog. Zahnpasta
 
 ## Anderes
-- [x] Kamera
-- [x] Handy
-- [x] Powerbank
-- [x] Öko-Müllbeutel
-- [x] Ducktape
+- [ ] Kamera
+- [ ] Handy
+- [ ] Powerbank
+- [ ] Öko-Müllbeutel
+- [ ] Ducktape
 - [x] Reisepass 
 - [x] Wasseraufbereitungstabletten
 - [x] Offline karten laden (Kommot oder maps.me)
