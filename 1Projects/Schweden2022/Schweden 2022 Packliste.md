@@ -3,7 +3,7 @@
 Orientiert an [Schweden Packliste](..%2F..%2F2Areas%2FPrivateVault%2FPrivateVault%2F4Archive%2FKnuTripSchweden%2FSchweden%20Packliste.md)
 
 ## Kleidung
-- [ ] Wasserschuhe 
+- [ ] Wasserschuhe  
 - [ ] Wanderschuhe 
 - [ ] Paddelhose 
 - [ ] Regenhose 
@@ -61,22 +61,22 @@ Orientiert an [Schweden Packliste](..%2F..%2F2Areas%2FPrivateVault%2FPrivateVaul
 - [ ] Powerbank
 - [ ] Öko-Müllbeutel
 - [ ] Ducktape
-- [x] Reisepass 
-- [x] Wasseraufbereitungstabletten
-- [x] Offline karten laden (Kommot oder maps.me)
-- [x] Spotify playlists laden
-- [x] L-Thyroxin
-- [x] Brille
-- [x] Ereader
+- [ ] Reisepass 
+- [ ] Wasseraufbereitungstabletten
+- [ ] Offline karten laden (Kommot oder maps.me)
+- [ ] Spotify playlists laden
+- [ ] L-Thyroxin
+- [ ] Brille
+- [ ] Ereader
 
 ## Takeaways
-- [x] Schnur
-- [x] IKEA Knipser
-- [x] Kartenspiel
-- [x] Shitschaufel
-- [x] Karabiner
-- [x] Labello
-- [x] Poncho welches auch plane sein kann 
-- [x] Desinfektion
-- [x] Ohrenstäbchen
-- [x] Gescheites Feuerzeug
+- [ ] Schnur
+- [ ] IKEA Knipser
+- [ ] Kartenspiel
+- [ ] Shitschaufel
+- [ ] Karabiner
+- [ ] Labello
+- [ ] Poncho welches auch plane sein kann 
+- [ ] Desinfektion
+- [ ] Ohrenstäbchen
+- [ ] Gescheites Feuerzeug
