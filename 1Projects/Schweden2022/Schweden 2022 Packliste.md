@@ -21,16 +21,16 @@ Orientiert an [Schweden Packliste](..%2F..%2F2Areas%2FPrivateVault%2FPrivateVaul
 - **Die oberste Schicht** (Abgabe von Schweiß an Umgebung, winddicht, Schutz des Körpers)
 	- [ ] Hardshell-Jacke (wasser- u. winddicht)
 	- [ ] Softshelljacke (wasserdicht)
-	- [x] Daunen / Fleece Jacke für im Lager
+	- [ ] Daunen / Fleece Jacke für im Lager
 - **Baden**
 	- Badehose
 
 ## Camping 
-- [x] Zelt
-- [x] Wasserdichte Plane
-- [x] Warmer Schlafsack (Komforttemperatur 10G)
-- [x] Schlafmatte
-- [x] Kopfkissen 
+- [ ] Zelt
+- [ ] Wasserdichte Plane
+- [ ] Warmer Schlafsack (Komforttemperatur 10G)
+- [ ] Schlafmatte
+- [ ] Kopfkissen 
 - [x] Camping Besteck (Teller, Tasse, Besteck) 
 - [x] Geschirrtuch
 - [x] Taschenmesser
