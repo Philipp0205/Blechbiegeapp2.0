@@ -16,7 +16,7 @@ Orientiert an [Schweden Packliste](..%2F..%2F2Areas%2FPrivateVault%2FPrivateVaul
 - **Die untere Schicht** (Schweiß durch lassen, körper trocken halten)
 	- [ ] Funktionsunterwäsche oder Skiunterwäsche
 - **Die mittlere Schicht** (Ableitung von Schweiß, Isolierung)
-	- [ ] T-Shirts (kurze + lange ärmel) 
+	- [x] T-Shirts (kurze + lange ärmel) 
 	- [ ] Pullover/Fleece-Weste (keine Baumwolle)
 - **Die oberste Schicht** (Abgabe von Schweiß an Umgebung, winddicht, Schutz des Körpers)
 	- [ ] Hardshell-Jacke (wasser- u. winddicht)
