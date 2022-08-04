@@ -36,15 +36,15 @@ Orientiert an [Schweden Packliste](..%2F..%2F2Areas%2FPrivateVault%2FPrivateVaul
 - [x] Taschenmesser
 - [x] Stirnlampe / Taschenlampe
 - [x] Kartenspiele
-- [ ] Großer Rucksack
-- [ ] Sitzkissen 
-- [ ] Feuerzeug
+- [x] Großer Rucksack
+- [x] Sitzkissen 
+- [x] Feuerzeug
 
 ## Hygiene 
-- [ ] Duschbrocken (biologisch abbaubar)
-- [ ] Kulturbeutel
-- [ ] Labello
-- [ ] Mundschutz
+- [x] Duschbrocken (biologisch abbaubar)
+- [x] Kulturbeutel
+- [x] Labello
+- [x] Mundschutz
 - [ ] Handdesinfektionsmitte
 - [ ] Handtuch (Mikrofaser)
 - [ ] Sonnenchreme
