@@ -34,8 +34,8 @@ Orientiert an [Schweden Packliste](..%2F..%2F2Areas%2FPrivateVault%2FPrivateVaul
 - [x] Camping Besteck (Teller, Tasse, Besteck) 
 - [x] Geschirrtuch
 - [x] Taschenmesser
-- [ ] Stirnlampe / Taschenlampe
-- [ ] Kartenspiele
+- [x] Stirnlampe / Taschenlampe
+- [x] Kartenspiele
 - [ ] Großer Rucksack
 - [ ] Sitzkissen 
 - [ ] Feuerzeug
