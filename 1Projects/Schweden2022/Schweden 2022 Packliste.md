@@ -31,14 +31,14 @@ Orientiert an [Schweden Packliste](..%2F..%2F2Areas%2FPrivateVault%2FPrivateVaul
 - [ ] Warmer Schlafsack (Komforttemperatur 10G)
 - [ ] Schlafmatte
 - [ ] Kopfkissen 
-- [x] Camping Besteck (Teller, Tasse, Besteck) 
-- [x] Geschirrtuch
-- [x] Taschenmesser
-- [x] Stirnlampe / Taschenlampe
-- [x] Kartenspiele
-- [x] Großer Rucksack
-- [x] Sitzkissen 
-- [x] Feuerzeug
+- [ ] Camping Besteck (Teller, Tasse, Besteck) 
+- [ ] Geschirrtuch
+- [ ] Taschenmesser
+- [ ] Stirnlampe / Taschenlampe
+- [ ] Kartenspiele
+- [ ] Großer Rucksack
+- [ ] Sitzkissen 
+- [ ] Feuerzeug
 
 ## Hygiene 
 - [x] Duschbrocken (biologisch abbaubar)
