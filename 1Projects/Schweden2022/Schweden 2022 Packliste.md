@@ -1,26 +1,26 @@
 # Schweden 2022 Packliste
 
-Orientiert an 
+Orientiert an [Schweden Packliste](..%2F..%2F2Areas%2FPrivateVault%2FPrivateVault%2F4Archive%2FKnuTripSchweden%2FSchweden%20Packliste.md)
 
 ## Kleidung
-- [x] Wasserschuhe 
-- [x] Wanderschuhe 
-- [x] Paddelhose 
-- [x] Regenhose 
-- [x] Unterwäsche 
-- [x] Mütze 
-- [x] Buff
-- [x] Paddelhandschuhe / Segelhandschuhe 
-- [x] Sonnenbrille 
+- [ ] Wasserschuhe 
+- [ ] Wanderschuhe 
+- [ ] Paddelhose 
+- [ ] Regenhose 
+- [ ] Unterwäsche 
+- [ ] Mütze 
+- [ ] Buff
+- [ ] Paddelhandschuhe / Segelhandschuhe 
+- [ ] Sonnenbrille 
 
 - **Die untere Schicht** (Schweiß durch lassen, körper trocken halten)
-	- [x] Funktionsunterwäsche oder Skiunterwäsche
+	- [ ] Funktionsunterwäsche oder Skiunterwäsche
 - **Die mittlere Schicht** (Ableitung von Schweiß, Isolierung)
-	- [x] T-Shirts (kurze + lange ärmel) 
-	- [x] Pullover/Fleece-Weste (keine Baumwolle)
+	- [ ] T-Shirts (kurze + lange ärmel) 
+	- [ ] Pullover/Fleece-Weste (keine Baumwolle)
 - **Die oberste Schicht** (Abgabe von Schweiß an Umgebung, winddicht, Schutz des Körpers)
-	- [x] Hardshell-Jacke (wasser- u. winddicht)
-	- [x] Softshelljacke (wasserdicht)
+	- [ ] Hardshell-Jacke (wasser- u. winddicht)
+	- [ ] Softshelljacke (wasserdicht)
 	- [x] Daunen / Fleece Jacke für im Lager
 - **Baden**
 	- Badehose
