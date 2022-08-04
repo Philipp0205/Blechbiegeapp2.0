@@ -4,17 +4,17 @@ Orientiert an [Schweden Packliste](..%2F..%2F2Areas%2FPrivateVault%2FPrivateVaul
 
 ## Kleidung
 - [x] Wasserschuhe  
-- [ ] **Wanderschuhe** 
+- [ ] Wanderschuhe 
 - [x] Paddelhose 
 - [x] Regenhose 
 - [x] Unterwäsche 
 - [x] Mütze 
-- [ ] **Buff**
+- [ ] Buff
 - [x] Paddelhandschuhe / Segelhandschuhe 
 - [x] Sonnenbrille 
 
 - **Die untere Schicht** (Schweiß durch lassen, körper trocken halten)
-	- [ ] **Funktionsunterwäsche oder Skiunterwäsche**
+	- [ ] Funktionsunterwäsche oder Skiunterwäsche
 - **Die mittlere Schicht** (Ableitung von Schweiß, Isolierung)
 	- [x] T-Shirts (kurze + lange ärmel) 
 	- [ ] Pullover/Fleece-Weste (keine Baumwolle)
@@ -72,11 +72,11 @@ Orientiert an [Schweden Packliste](..%2F..%2F2Areas%2FPrivateVault%2FPrivateVaul
 ## Takeaways
 - [ ] Schnur
 - [ ] IKEA Knipser
-- [ ] Kartenspiel
+- [x] Kartenspiel
 - [ ] Shitschaufel
-- [ ] Karabiner
-- [ ] Labello
-- [ ] Poncho welches auch plane sein kann 
-- [ ] Desinfektion
-- [ ] Ohrenstäbchen
+- [x] Karabiner
+- [x] Labello
+- [x] Poncho welches auch plane sein kann 
+- [x] Desinfektion
+- [x] Ohrenstäbchen
 - [ ] Gescheites Feuerzeug
