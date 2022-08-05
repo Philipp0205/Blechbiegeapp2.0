@@ -1,7 +1,8 @@
 Tänze die wir gelernt haben 
 ========================
 
-# Rumba
-
+## Winer Walzer 
+## Langsamer Walzer 
+## Disco Fox 
 
 
